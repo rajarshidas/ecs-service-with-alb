@@ -1,6 +1,4 @@
-# Welcome to your CDK TypeScript project!
-
-This is a blank project for TypeScript development with CDK.
+This project uses CDK to create an Amazon ECS cluster. It adds a FireLens Log Router and includes setup for Falco. Falco is an Open Source tool for Container and Kubernetes runtime threat detection.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
